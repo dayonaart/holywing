@@ -1,0 +1,25 @@
+
+	{
+		"status": 200,
+		"name": "Good",
+		"message": "Success",
+		"error_code": 0,
+		"code": 0,"carousel_data":[{
+				"idsong": 740,
+				"total_hits": 99,
+				"song": {
+					"title": "C.H.R.I.S.Y.E.",
+					"originalartist": {
+						"idartist": 292,
+						"name": "Diskoria, Laleilmanino, Eva celia",
+						"image": "https://firebasestorage.googleapis.com/v0/b/apps-20083.appspot.com/o/songs%2Fec869649912f472e81a3894ce78cd4df.jpeg?alt=media&token=a780ca5f-6932-4840-839a-014e27e6b676"
+					},
+					"url": "",
+					"image": "https://firebasestorage.googleapis.com/v0/b/apps-20083.appspot.com/o/songs%2Fec869649912f472e81a3894ce78cd4df.jpeg?alt=media&token=a780ca5f-6932-4840-839a-014e27e6b676",
+					"external_url_spotify": null,
+					"external_url_applemusic": null,
+					"external_url_streamlink": null,
+					"external_url_link": null
+				}
+			}
+		]}
